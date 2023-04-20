@@ -2,6 +2,9 @@
 	"repo": "github",
 	"owner": "msx80",
 	"name": "berrytestlibrary",
-	"version": "1.0.0",
-	"dependencies": []
+	"description": "a test library for testing the dependency manager",
+	"version": "2.0.0",
+	"dependencies": [
+		"github:msx80:uppercase:2.3.4"
+	]
 }
